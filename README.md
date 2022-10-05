@@ -6,6 +6,10 @@ This is a very rudimentary first version of an audiophile marketplace to buy and
 
 A new version is being done concurrently that includes Next.js and React for the frontend and a complete backend redo.
 
+Here you can check out the frontend repository (work in progress, styling for mobile at the moment):
+
+[new frontend repo](https://github.com/xaviguasch/kubler-audio-e-commerce-fullstack-project--frontend)
+
 This was a demo version to showcase the most basic features of the project. Will link to the 2.0 version very soon.
 
 # Install
